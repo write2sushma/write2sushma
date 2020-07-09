@@ -26,7 +26,7 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
      [LinkedIn](https://www.linkedin.com/in/sushmagoutam/)
 
-- 😄 Pronouns: ...
+- 👩 Pronouns: ...
 
       She / Her
       
