@@ -24,7 +24,7 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
 - 📫 How to reach me: ...
 
-     - [LinkedIn](https://www.linkedin.com/in/sushmagoutam/)
+     - Connect with me @ [LinkedIn](https://www.linkedin.com/in/sushmagoutam/)
 
 - 👩 Pronouns: ...
 
