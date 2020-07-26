@@ -4,7 +4,7 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
 - 🔭 I’m currently working on ...
 
-     - A Device Controller web application using PyThon/ Django/ Channels. 
+     - A Device Controller web application using Python/ Django/ Channels. 
 
 - 🌱 I’m currently learning ...
 
