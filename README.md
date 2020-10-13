@@ -23,6 +23,8 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 - 👩 Pronouns: ...
 
      - She / Her
+     
+- [![Programing Languages](https://i.imgur.com/vKb2F1B.png)](http://ionicabizau.github.io/github-profile-languages/?user=%2540write2sushma)
 
 <!--
 **write2sushma/write2sushma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
