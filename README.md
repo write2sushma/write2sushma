@@ -24,7 +24,7 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
      - She / Her     
      
-- Skills ...
+- Programing Languages ...
      
 ![Programing Languages](https://github.com/write2sushma/write2sushma/blob/master/PL.JPG)
 <!--
