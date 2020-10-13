@@ -16,16 +16,17 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
      - Python/Django/Channels
 
-- 📫 How to reach me: ...
+- 📫 How to reach me ...
 
      - Connect with me @ [LinkedIn](https://www.linkedin.com/in/sushmagoutam/)
 
 - 👩 Pronouns: ...
 
-     - She / Her
+     - She / Her     
      
-- [![Programing Languages](https://github.com/write2sushma/write2sushma/blob/master/PL.JPG)](http://ionicabizau.github.io/github-profile-languages/?user=%2540write2sushma)
-
+- Skills ...
+     
+![Programing Languages](https://github.com/write2sushma/write2sushma/blob/master/PL.JPG)
 <!--
 **write2sushma/write2sushma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
