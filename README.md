@@ -6,13 +6,13 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
 - 🔭 I’m currently working on ...
 
-     - A web application using Python/ Django/ Channels. 
+     - A web application using Python, Django Channels and Javascript. 
 
 - 🌱 I’m currently learning ...
       
      - Docker/Kubernetes
-
      - Microservices architecture
+     - Azure Cloud
 
 - 💬 Ask me about ...
 
@@ -20,11 +20,8 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
 - 📫 How to reach me ...
 
-     - Connect with me @ [LinkedIn](https://www.linkedin.com/in/sushmagoutam/)
-
-- 👩 Pronouns: ...
-
-     - She / Her     
+     - [![Twitter Badge](https://img.shields.io/badge/-@sushmag-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sushmag)](https://twitter.com/sushmag) 
+     - [![Linkedin Badge](https://img.shields.io/badge/-sushmagoutam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushmagoutam/)](https://www.linkedin.com/in/sushmagoutam/)
      
 - Programing Languages ...
      
