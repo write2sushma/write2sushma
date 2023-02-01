@@ -16,7 +16,7 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
 - 💬 Ask me about ...
 
-     - Python/Django/Channels
+     - Test Automation/Python/Django/Channels
 
 - 📫 How to reach me ...
 
