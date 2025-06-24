@@ -6,17 +6,16 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
 - 🔭 I’m currently working on ...
 
-     - A web application using Python, Django Channels and Javascript. 
+     - A web application using Python, FastAPI, React, Typescript and Material UI. 
 
 - 🌱 I’m currently learning ...
       
-     - Docker/Kubernetes
-     - Microservices architecture
-     - Azure Cloud
+     - Agentic AI
+     - RAG
 
 - 💬 Ask me about ...
 
-     - Test Automation/Python/Django/Channels
+     - REST APIs/Python/Web App Development/Deploying in GCP
 
 - 📫 How to reach me ...
 
