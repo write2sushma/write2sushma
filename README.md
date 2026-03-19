@@ -6,7 +6,7 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
 - 🔭 I’m currently working on ...
 
-     - A web application using Python, FastAPI, React, Typescript and Material UI. 
+     - Developing a Knowledge Assistant Chatbot using ReAct RAG and Google Agent Development Kit (ADK). 
 
 - 🌱 I’m currently learning ...
       
