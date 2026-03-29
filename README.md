@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=write2sushma.write2sushma)
 
-This is the GitHub home of Sushma Goutam, a software professional in Germany.
+This is the GitHub home of Sushma, a software professional in Germany.
 
 - 🔭 I’m currently working on ...
 
@@ -16,10 +16,6 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 - 💬 Ask me about ...
 
      - REST APIs/Python/Web App Development/Deploying in GCP
-
-- 📫 How to reach me ...
-
-     - [![Linkedin Badge](https://img.shields.io/badge/-sushmagoutam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushmagoutam/)](https://www.linkedin.com/in/sushmagoutam/)
      
 - Programing Languages ...
      
